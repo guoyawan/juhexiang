@@ -56,7 +56,7 @@
                         description: " 俗话说“外行看热闹，内行看门道”，对于不了解和田玉的朋友来说，入手和田玉最害怕两点：一是买到假货，二是怕买亏了。人养玉一时，玉养人一世，老灿作为爱玉之人，经手了上万块玉石，今天就以行业经验分享给大家选和田玉最重要的两点：如何鉴别真假、怎么判断优劣？",
                         about: "和田玉专题",
                         reading: Math.ceil(Math.random()*100000),
-                        url:"./new_message"
+                        url:"/#/new_message"
                     },
                     {
                         specialurl: require("@/assets/k4.jpg"),

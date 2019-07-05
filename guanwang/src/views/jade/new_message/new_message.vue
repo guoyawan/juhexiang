@@ -156,31 +156,11 @@
         color: #b61423;
     }
 
-    .qd1 {
-        font-size: 1.1em;
-        font-weight: bold;
-        color: #103365;
-    }
-
     .qd2 {
         font-size: 1em;
         font-weight: bold;
         color: #f00;
     }
-
-    .qd3 {
-        font-size: 1.2em;
-        color: #fff;
-        background: #b61423;
-        padding: 5px 20px;
-    }
-
-    .qd4 {
-        color: #fff;
-        background: #103365;
-        padding: 3px 8px;
-    }
-
     .cd {
         max-width: 800px;
         margin: auto;
@@ -214,28 +194,6 @@
         text-align: center;
         padding: 0 20px 5px;
     }
-
-    .tg {
-        background: #e6e4e5;
-        max-width: 800px;
-        margin: auto;
-        padding: 0;
-    }
-
-    .tg p {
-        text-align: center;
-        font-size: 1.3em;
-        padding: 5px 20px 15px;
-        color: #ff0;
-        font-weight: bold;
-    }
-
-    .bt {
-        background: #001f4b;
-        padding: 5px 10px;
-        border-radius: 15px;
-    }
-
     .weixin {
         max-width: 800px;
         margin: 5px;
@@ -249,14 +207,6 @@
         line-height: 1.5em;
         padding: 5px;
         font-size: 1em;
-    }
-
-    .wx {
-        background: #ff0;
-        color: #A82A2B;
-        border-radius: 5px;
-        font-weight: bold;
-        padding: 0 5px;
     }
 
     .xj {
@@ -300,14 +250,6 @@
         text-align: center;
         padding: 10px;
     }
-
-    .jb {
-        max-width: 800px;
-        margin: auto;
-        padding: 0;
-        background: #e4e4e4;
-    }
-
     .jb h3 {
         text-align: center;
         font-size: 1.2em;
